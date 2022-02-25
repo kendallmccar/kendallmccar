@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kendallmccar / Kendall McCarthy, and this is my professional GitHub account
+- 🔗 You can find me on LinkedIn at https://www.linkedin.com/in/kendallmccar/
+- 🧠 I currently code in C++, C#, Python, and Ruby on Rails
+- 💞️ I’m open to collaborating on open-source unix/crossplatform projects in C++ or Python
+- 📫 The best way to reach me is through LinkedIn
